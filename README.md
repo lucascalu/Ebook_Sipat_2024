@@ -13,3 +13,7 @@
 <PRE>
 OBS: contéudo não precisar ser dinâmico
 </PRE>
+<PRE>
+  OPCIONAL : COMO COMPILAR APLICATIVO:
+  https://www.youtube.com/watch?v=-tSMiJRx-hc
+</PRE>
